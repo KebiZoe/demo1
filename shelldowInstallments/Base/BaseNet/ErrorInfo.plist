@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>100</key>
+	<string>成功</string>
+	<key>101</key>
+	<string>失败</string>
+	<key>102</key>
+	<string>扫描失败商品已被扫描过</string>
+	<key>103</key>
+	<string>Token不存在或着失效</string>
+	<key>104</key>
+	<string>已登录</string>
+</dict>
+</plist>
